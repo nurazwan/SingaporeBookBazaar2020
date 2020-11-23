@@ -1,14 +1,14 @@
 Category, Label
-Navigation, Stores
-Navigation, Storytelling
-Navigation, Activities
-Navigation, BookLaunches
+Navigation,Stores
+Navigation,Storytelling
+Navigation,Activities
+Navigation,BookLaunches
 Navigation,MeetAuthors
 Navigation,Webinar
-Promotion, BSLRedemption
-Promotion, Survey
-Promotion, Subscription
-referral, AdeptLearning
+Promotion,BSLRedemption
+Promotion,Survey
+Promotion,Subscription
+referral,AdeptLearning
 referral,WorldScientific
 referral,PustakaNasional
 referral,BanjoAndSons
@@ -21,3 +21,21 @@ referral,EnglishCorner
 referral,JsimEducation
 referral,AsiapacBooks
 referral,ShingLee
+Redirect,Facebook-JuneHo
+Redirect,YouTube-EddieChan
+Redirect,YouTube-RosieWee
+Redirect,Webinar-CLASS
+Redirect,Webinar-SBA
+Redirect,Webinar-CreatingVideoAssets
+Redirect,BookLaunches-ChinasChanges
+Redirect,BookLaunches-ChinatownUnspoken
+Redirect,BookLaunches-TheHeartRemembers
+Redirect,BookLaunches-ElizebethChoy
+Redirect,BookLaunches-SimplyRead
+Redirect,BookLaunches-Friends
+Redirect,YouTube-DIYCraftIdeasforkids
+Redirect,YouTube-CreativeDrawingHacksForKids
+Redirect,YouTube-HowToDrawADragon
+Redirect,YouTube-FunCraftsWithCardboard
+Redirect,YouTube-MakingPaperCraftOfWanKenitAndBangau
+Redirect,YouTube-How to make an animal form

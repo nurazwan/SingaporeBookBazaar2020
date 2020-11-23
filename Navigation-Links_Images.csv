@@ -1,8 +1,8 @@
-﻿Site,ImageLink,Link
-Main,,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020
-Stores,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_YearEnd-Square.JPG,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-stores
-Storytelling,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_Storytelling-Square.JPG,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-storytelling
-Activities,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_Activities-Square.JPG,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-Activities
-Meet Authors,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_MeetAuthors-Square.JPG,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-MeetAuthors
-Book Launches,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_BookLaunches-Square.JPG,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-BookLaunches
-Webinar,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_Webinar-Square.JPG,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-Webinar
+﻿Site,Link,Banner,Square 
+Main,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020Main-Banner2020.JPG,
+Stores,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-stores,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020YESale-Banner2020.JPG,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_YearEnd-Square.JPG
+Storytelling,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-storytelling,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020Storytelling-Banner2020.JPG,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_Storytelling-Square.JPG
+Activities,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-Activities,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020Activities-Banner.JPG,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_Activities-Square.JPG
+Book Launches,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-BookLaunches,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020Booklaunches-Banner.JPG,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_BookLaunches-Square.JPG
+Meet Authors,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-MeetAuthors,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020MeetAuthor-Banner2020.JPG,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_MeetAuthors-Square.JPG
+Webinar,http://singaporebookpublishers.sg/page/SingaporeBookBazaar2020-Webinar,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020Webinar-Banner2020.JPG,http://www.singaporebookpublishers.sg/documents/sbpa_SBB2020_Webinar-Square.JPG
