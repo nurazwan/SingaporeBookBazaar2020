@@ -1,0 +1,42 @@
+            <div class="TextArea">
+            <p>The Singapore Book Bazaar is organised by the Singapore Book Publishers Association, a trade association representing local and international publishing firms based in Singapore.</p>
+
+            <p>The Singapore Book Bazaar will consist of ten days of sales activities (27 November – 6 December). The bazaar offers an eclectic mix of books that will appeal to book lovers and the general public alike. Families with kids can expect an exciting range of activities happening in this virtual Singapore Book Bazaar.</p>
+
+            <p>You can browse through the latest book offerings from familiar brand names such as Asiapac Books and World Scientific, as well as the latest titles from established publishers such as Landmark Books and Pustaka Nasional. Those looking for enrichment titles for the young ones will not be disappointed as educational publishers Adept Learning, Casco Publications, English Corner Publishing, ilovereading.sg, JSIM Education, Nurture Craft and Shing Lee Publishers will be selling their latest titles there. Niche local titles are also available from local publishers Banjo & Sons and Candid Creation Publishing.</p>
+
+            <p>Exciting promotional activities await young and old alike. There will be free gifts for customers who spend $30 worth of books. Visitors who fill up a survey form online will stand a chance to win a book hamper worth $1,000. Consider your Christmas shopping done</p></div>            
+            
+            <div class="TextArea">
+            <h3>E-BOOK STORES </h3>
+            <p>The E-Bookstores page is supported by 13 established publishers. You can browse through the latest book offerings from familiar brand names such as Asiapac Books and World Scientific, as well as the latest titles from established publishers such as Landmark Books and Pustaka Nasional. Those looking for enrichment titles for the young ones will not be disappointed as educational publishers Adept Learning, Casco Publications, English Corner Publishing, ilovereading.sg, JSIM Education, Nurture Craft and Shing Lee Publishers will be selling their latest titles there. Niche local titles are also available from local publishers Banjo & Sons and Candid Creation Publishing. </p></div>
+            
+            <div class="TextArea">
+            <h3>SHOWCASE </h3>
+            <p>The Singapore Book Awards is organised by the Singapore Book Publishers Association (SBPA) annually as a publishers’ prize to recognise the best in Singapore book publishing. The event was first introduced in 2012 and it has grown to become the most anticipated and sought-after event in the publishing industry.</p>
+            <p>This virtual hall will feature some of the Awards winners and finalists (some of them you might be already familiar with). In addition, you are able to view some of the best Made-in-Singapore Books in 2020. </p></div>
+            
+            <div class="TextArea">
+            <h3>ACTIVITIES </h3>
+            <p>There is an interesting range of activities planned for children. There are instructional videos on how to make simple art and crafts as well as simple creative drawing skills that children could learn and enjoy.</p></div>
+            
+            <div class="TextArea">
+            <h3>BOOK EVENTS</h3>
+            <p>Special online book events and promotional trailers are available on this page. There will be exclusive interviews with the authors and publishers, as well as exciting introductions to the latest titles on offer.</p></div>
+            
+            <div class="TextArea">
+            <h3>ACADEMY</h3>
+            <p>The Academy is a collaboration with the Independent Publishers Guild (IPG) based in the UK to provide a structured training programme to raise the skillsets and competencies of employees of publishing companies in Singapore.</p>
+            <p>As part of the collaboration, the Academy page links to the IPG Skills Hub which offers a huge range of content, from full-length courses in crucial aspects of publishing to bite-size pieces of advice.</p>
+            <p>The training content will be delivered online and is accessible on PC, Mac, Android and IOS devices. This enables employees to receive high-quality training content at their own convenience and giving them an opportunity to take charge of their own professional development. </p></div>
+            
+            <div class="TextArea">
+            <h3>WEBINARS</h3>
+            <p>This hall will contain links to the webinars for the publishing community and the public.</p>
+            <p>The webinars are:
+            <ul>
+                <li>Understanding Your Rights And How You Can Benefit From Them – Jointly organised with Copyright Licensing and Administration Society Singapore Limited (CLASS), participants would be able to appreciate how a better understand of copyright would be beneficial for their businesses. </li>
+            
+                <li>Launch of 2021 Singapore Book Awards – Ms Catherine Khoo, Managing Director of Experiences and Experiments Books and Chairperson of the 2021 Singapore Book Awards project will be introducing the 2021 Singapore Book Awards and to share the publicity that winners will enjoy.</li> 
+                
+                <li>Creating Video Assets – This is a 2-part webinar jointly organised with MUSE on how to create videos for your marketing assets.</li></ul></p></div>
